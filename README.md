@@ -1,4 +1,4 @@
-# git-practice1 
+# git-practice
 cd ~/Desktop
 
 # 복제(clone)
