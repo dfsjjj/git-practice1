@@ -1,0 +1,5 @@
+echo "# Git Practice" > README.md
+echo "*.log" > .gitignore
+echo "Hello" > file1.txt
+echo "Hi" > file2.txt
+echo "안녕" > file3.txt
